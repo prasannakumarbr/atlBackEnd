@@ -1,0 +1,5 @@
+//Configuration files
+var config = {};
+
+config.dbHost = process.env.DB_HOST;
+config.dbName = process.env.DB_NAME;
